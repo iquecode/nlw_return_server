@@ -8,12 +8,12 @@
     "method": "POST",
     "sortNum": 10000,
     "created": "2022-05-04T19:17:31.967Z",
-    "modified": "2022-05-04T19:20:21.100Z",
+    "modified": "2022-05-05T00:34:33.598Z",
     "headers": [],
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n    \"type\": \"BUG\",\n    \"comment\": \"Está tudo bugado!!!!\"\n}",
+      "raw": "{\n    \"type\": \"BUG\",\n    \"comment\": \"Super bugado2!!!!\"\n}",
       "form": []
     },
     "tests": []
